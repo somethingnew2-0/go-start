@@ -3,4 +3,4 @@ go-start
 
 A boilerplate starter setup for Go
 
-Run `source install.sh` or more simply `. install.sh` to setup the git hooks and GOPATH for this new project.
+Run `source dev.sh` or more simply `. dev.sh` to setup the git hooks and GOPATH for this new project.
